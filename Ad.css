@@ -1,0 +1,83 @@
+body{
+background:#000000;
+}
+
+.mbody{
+width:305px;
+height:560px;
+background: url('bg.jpg');background-size:cover;
+}
+
+img.headpic{
+width:305px;
+height:120px;
+}
+
+.serviceP{
+font-size:20px;
+color:#8B7D6B;
+text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
+}
+
+.mixP{
+font-size:18px;
+color:#8B4513;
+}
+
+p{
+font-size:18px;
+color:#CDC0B0;
+}
+
+form{
+float:none;
+}
+
+.emailP{
+float:none;
+font-size:20px;
+}
+
+.submit{
+width:300px;
+float:right;
+}
+
+.email{
+width:295px;
+height:30px;
+float:none;
+}
+
+.participation{
+font-size:10px;
+color:#CDC0B0;
+}
+
+img.mapP{
+width:80px;
+height:80px;
+}
+
+input[type="text"], textarea {
+color:white;
+font-size:14px;
+background-color : #996600; 
+border: solid 1px ##FEFEF2;
+border-radius: 10%
+}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+h1{
+font-size:25px;
+color:white;
+}
+
+
+
+
+
